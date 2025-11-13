@@ -79,8 +79,6 @@ Your local version of the **Amazon Clone** will open — responsive and interact
 
 ## 📸 Preview
 
-Add a screenshot here:
-
 <img width="1365" height="631" alt="Screenshot 2025-11-13 013441" src="https://github.com/user-attachments/assets/a40fcc96-8cca-4c41-826f-caaed3799075" />
 
 ---
