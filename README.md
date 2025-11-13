@@ -121,5 +121,3 @@ This project helps you:
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-Would you like me to **add badges, screenshots, and a live demo section** (for GitHub Pages or Netlify)? I can include those next for a more polished README.
