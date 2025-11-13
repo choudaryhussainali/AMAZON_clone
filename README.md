@@ -110,9 +110,9 @@ This project helps you:
 
 ## 🧑‍💻 Author
 
-**Hussain Ali**
-📧 choudaryhussainali@outlook.com
-🌐 [Github](https://github.com/choudaryhussainali/)
+- **Hussain Ali**
+- 📧 choudaryhussainali@outlook.com
+- 🌐 [Github](https://github.com/choudaryhussainali/)
 
 ---
 
